@@ -1,6 +1,5 @@
-### Hi there 👋, my name is Shuvro
-#### I am a Student.### Hi there 👋, my name is Shuvro
-#### I am a Student.
+#### Hi there 👋, my name is Shuvro
+
 ![I am a Student.](https://avatars.githubusercontent.com/u/57281344?v=4)
 
 
